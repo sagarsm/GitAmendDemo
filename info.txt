@@ -1,8 +1,8 @@
 This is a critical message that I'm going to ammend into the previous commit along with this new file.
 
-Commit #2 during squash activity
+Commit #2 during squash activity - sagarsm 
 
-Commit #3 during squash activity
+/*Commit #3 during squash activity
 
 Commit #4 during squash activity
 
@@ -44,4 +44,4 @@ Commit #22 - Cherry Pick demo commit 1
 
 Commit #23 - Cherry Pick demo commit 2
 
-No more commits after this line.
+No more commits after this line. */
