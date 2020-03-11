@@ -2,9 +2,9 @@ This is a critical message that I'm going to ammend into the previous commit alo
 
 Commit #2 during squash activity - sagarsm Squash activity
 
-/*Commit #3 during squash activity - sagarsm squash 
+Commit #3 during squash activity - sagarsm squash activity 
 
-Commit #4 during squash activity - sagarsm squash 
+/*Commit #4 during squash activity - sagarsm squash 
 
 Commit #5 during squash activity
 
