@@ -4,9 +4,9 @@ Commit #2 during squash activity - sagarsm
 
 Commit #3 during squash activity - sagarsm
 
-/*Commit #4 during squash activity
+Commit #4 during squash activity - sagarsm
 
-Commit #5 during squash activity
+/*Commit #5 during squash activity
 
 Commit #6 during squash activity
 
